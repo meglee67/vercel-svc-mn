@@ -15,3 +15,7 @@ temp project for Minnesota data, related to SVC codes; part of vercel final proj
 - create a main.py
 - create a requirements.txt
 - create a vercel.json
+
+# to deploy to Vercel
+- go to vercel
+- deploy a new project by importing the existing Git Repository
